@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author HI
+ *
+ */
+module Camera {
+}
